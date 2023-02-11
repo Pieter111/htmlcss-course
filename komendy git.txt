@@ -1,0 +1,20 @@
+1) git clone repo-url
+2) code .
+3) git status
+4) git add .
+5) git commit -m "pierwszy-commit"
+6) git push
+
+
+komendy do gita
+http://guides.beanstalkapp.com/version-control/common-git-commands.html
+
+From local to remote:
+1) otwórz Git Bash w miejscu projektu
+2) uruchom komende: git init
+3) git add .
+4) git commit -m "from local to remote no1"
+
+git remote add origin https://github.com/Pieter111/zadanie-form.git
+git branch -M main
+git push -u origin main
